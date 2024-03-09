@@ -122,11 +122,10 @@
 </div>
 
 ###
-<div style="display:flex; align-items: center; gap: 20;">
-
 <img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
+###
+
 <p align="left">A Part from Coding I am more of a:  <br> -  🌲  Outdoor Explorer<br> -  🏋️‍♂️  Sports and Fitness Enthusiast<br> -  📚  A Dedicated Book Reader<br> -  🌐 Tech Trend Follower<br> - ☕ Coffee Lover<br> - 🎨 Art Admirer<br> - 🎸 Music Listener</p>
-</div>
 
 ###
