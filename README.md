@@ -122,7 +122,7 @@
 </div>
 
 ###
-<div display="flex" justify-content="flex-start">
+<div style="display:flex; align-items: center; gap: 20;">
 
 <img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
