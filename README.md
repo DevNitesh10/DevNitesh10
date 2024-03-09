@@ -123,13 +123,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DevNitesh10/DevNitesh10/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<span></span>
 
 ###
 
