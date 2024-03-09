@@ -133,6 +133,6 @@
 
 ###
 
-<p align="left">A Part from Coding I am more of a:  <br>-  🌲  Outdoor Explorer<br>-  🏋️‍♂️  Sports and Fitness Enthusiast<br>-  📚  A Dedicated Book Reader<br>-  🌐 Tech Trend Follower<br>- ☕ Coffee Lover<br>- 🎨 Art Admirer<br>- 🎸 Music Listener</p>
+<p align="left">A Part from Coding I am more of a:  <br> -  🌲  Outdoor Explorer<br> -  🏋️‍♂️  Sports and Fitness Enthusiast<br> -  📚  A Dedicated Book Reader<br> -  🌐 Tech Trend Follower<br> - ☕ Coffee Lover<br> - 🎨 Art Admirer<br> - 🎸 Music Listener</p>
 
 ###
